@@ -1,4 +1,4 @@
 ciabatta
 ========
 
-Ruby script used to convert CSV data to JSON data.
+Ruby script used to convert CSV data to JSON data. 

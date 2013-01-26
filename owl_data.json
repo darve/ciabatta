@@ -1,0 +1,17 @@
+DATA = { "Oxfordshire": { 
+	Location: "4.5",
+	owls_per_square_foot: "9",
+	owl_rating: "Lots of owls here"
+},
+
+"Milton Keynes": { 
+	Location: "0",
+	owls_per_square_foot: "0",
+	owl_rating: "Literally no owls here"
+},
+
+"Sherwood Forest": { 
+	Location: "142",
+	owls_per_square_foot: "11",
+	owl_rating: "You cannot move for owls"}
+}
